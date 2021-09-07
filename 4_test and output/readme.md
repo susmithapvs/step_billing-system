@@ -6,8 +6,3 @@
                     
                     
                     
-![output)](https://user-images.githubusercontent.com/89644963/132375518-6e2f91e3-eae7-4207-a216-92e68ca2c77e.png)
-
-
-
-  ![output](https://user-images.githubusercontent.com/89644963/132375521-a759546a-8e3c-4603-86bb-c3f446415f6c.png)
