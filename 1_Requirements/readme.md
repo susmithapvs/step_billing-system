@@ -51,24 +51,24 @@ HIGH LEVEL REQUIREMENTS:
 
 Id       |  Description                           |  Category |  Status
 ---------|----------------------------------------|-----------|---------
-HR01     | User shall be able to provide name of  | Technical | Implemented
-         | the customer                           |
-HR02     | User shall be able to provide number of| Technical | Implemented
-         | items                                  |                                  
-HR03     | User shall be able to provide name of  | Technical | Implemented
-         | the item                               |
-HR04     | User shall be able to provide name of  | Technical | Implemented
-         |  the quntity                           |
-HR05     | User shall be able to provide unit     | technical | Implemented
-         | price of the item                      |
+HR01     | User shall be able to provide name of the customer    | Technical | Implemented
+         |                          |
+HR02     | User shall be able to provide number of items| Technical | Implemented
+         |                                   |                                  
+HR03     | User shall be able to provide name of the item  | Technical | Implemented
+         |                                |
+HR04     | User shall be able to provide name of the quntity   | Technical | Implemented
+         |                            |
+HR05     | User shall be able to provide unit price of the item      | technical | Implemented
+         |                     |
          
          
 LOW LEVEL REQUIREMENTS
 
 Id       |  Description                           |  Category |  Status
 ---------|----------------------------------------|-----------|---------
-LR01     | Checks all the data entered by user is | Technical | Implemented
-         | valid or not                           |         
+LR01     | Checks all the data entered by user is valid or not | Technical | Implemented
+         |                            |         
 LR02     | Checks the invoices of customer bills  | Technical | Implemented    
 
 
