@@ -27,3 +27,5 @@ void generatedBillFooter(float total)
  * @brief 
  *  This algorithm is used to generate the bill footer
  */
+  
+  
