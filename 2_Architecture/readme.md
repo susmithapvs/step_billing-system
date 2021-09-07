@@ -18,7 +18,7 @@ case2:
 **STRUCTURAL DIAGRAM**
 
 
+![st drawio](https://user-images.githubusercontent.com/89644963/132377392-77acc327-a54d-4a54-95b1-01f6a42bb0dc.png)
 
-![Structural diagram drawio](https://user-images.githubusercontent.com/89644963/132370354-baded320-7145-47b6-b7bf-92dfa1d6b4ff.png)
 
 
