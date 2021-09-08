@@ -1,5 +1,7 @@
 **Rock, Paper, Scissor game**
 
+Code Inspector Badges
+
 https://www.code-inspector.com/project/27624/score/svg
 
 
