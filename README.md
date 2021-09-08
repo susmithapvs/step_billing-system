@@ -1,7 +1,7 @@
-# step_billing-system
+**Rock, Paper, Scissor game**
 
 https://www.code-inspector.com/project/27624/score/svg
-https://www.code-inspector.com/project/27624/score/svg
+
 
 https://www.code-inspector.com/project/27624/status/svg
 
