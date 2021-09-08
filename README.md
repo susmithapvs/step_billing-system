@@ -2,10 +2,10 @@
 
 Code Inspector Badges
 
-https://www.code-inspector.com/project/27624/score/svg
+[![code quality score](https://www.code-inspector.com/project/27624/score/svg)
 
 
-https://www.code-inspector.com/project/27624/status/svg
+[![code grade](https://www.code-inspector.com/project/27624/status/svg)
 
 
 CODACY Badge
@@ -14,8 +14,8 @@ CODACY Badge
 
 Folder|	Description
 -------|----------------------------
-1_Requirements|	Documents detailing requirements and research
-2_Design	|Documents specifying design details
-3_Implementation	|All code and documentation
-4_Test_plan	|Documents with test plans and procedures
+1_Requirements|	 detailing requirements 
+2_Architecture	|flowchart diagrams
+3_Implementation	|All code 
+4_Test_plan	| test plans and output
 
