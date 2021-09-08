@@ -51,7 +51,7 @@ How
 This code asks the user to enter  1 , 2 , or 3. Each number stands for a different item; Rock, Paper, or Scissors. The code has a random function in it that randomly generates 1, 2 , or 3. The random function generates an answer for the computer
 
 
-HIGH LEVEL REQUIREMENTA
+HIGH LEVEL REQUIREMENTS
 
 Id  | Description                                   |Category    |status
 ----|-----------------------------------------------|------------|--------
