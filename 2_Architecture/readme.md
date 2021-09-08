@@ -1,24 +1,13 @@
 
-**BEHAVIOURAL DIAGRAM**
+Diagrams:
 
-Case1:
-
-![Behavioural diagram drawio (1)](https://user-images.githubusercontent.com/89644963/132372765-ef0bbbf2-f9bf-43cc-8892-6b484777be7c.png)
+![image](https://user-images.githubusercontent.com/89644963/132464381-6444a34c-9449-4af5-badd-d228a92677a5.png)
 
 
-
-case2:
+![image](https://user-images.githubusercontent.com/89644963/132464915-93d4cb58-f988-498f-8069-cec5f2eece01.png)
 
 
 
-![Behavioural diagram drawio (1)](https://user-images.githubusercontent.com/89644963/132364654-a4b4f186-578e-4e96-ad6a-332f94a47e46.png)
-
-
-
-**STRUCTURAL DIAGRAM**
-
-
-![st drawio](https://user-images.githubusercontent.com/89644963/132377392-77acc327-a54d-4a54-95b1-01f6a42bb0dc.png)
-
+![image](https://user-images.githubusercontent.com/89644963/132465163-318da0c6-03ce-4d38-ace5-3fcae169ef95.png)
 
 
