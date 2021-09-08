@@ -1,99 +1,116 @@
 
+Introduction:
 
-**INTRODUCTION:**
+Rock, Paper, Scissor is a game project. it has only two possible outcomes: a draw, or a win for one player and a loss for the other. A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.
 
-Restaurant Billing System Using C Programming can be very useful within a business environment. Instead of doing manual work for making up a bill at Restaurant, which gets tiring and time consuming, you can generate a bill including tax and service charges in just few clicks. When making up a bill manually at a Restaurant may contain some human errors like adding wrong items into the bill or summing up their total also may end up wrong, it also sometimes results into a Bad Impression towards the Restaurant from a Customer. Ideally, user should be able to generate bill without any mistakes and quickly, enabling them to fasten or improve their process. To overcome this problem, we have come up with this project, that is, Restaurant Billing System Using C Programming. 
-       
-      
- **SWOT ANALYSIS**
-      
-**STRENGTHS:**
+Objective:
 
-Reduces material costing that comes with manual billing and filing.
+Usually this game is played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
 
-**WEAKNESS:**
+SWOT Analysis
 
-It is not cost-effective for small scale business owners.
+Strengths:
 
-**OPPURTUNITIES:**
+Displays all moves to be performed.
 
-Automate redundant work and also it	delivers a great customer experience.
+Weakness:
 
-**THREATS:**
+ It's supposed to be a game of pure luck, not skill — and indeed, if humans were able to be perfectly random, no one could gain an upper hand over anyone else.
+ 
+ Oppurtunities:
+ 
+ Physical exercise will keep you physically fit and improve your muscles. Mental preparation helps you with focus, consciousness, concentration, and control of your mind.
+ 
+ Threats:
+ 
+ Time is of the essence
+If you are not fast enough in your response, you are not playing the game. The opponent has to be matched. Fast analysis is key to responding to the competition.
 
-User should be able to generate bill without any mistakes and quickly, enabling them to fasten or improve their process.
+![image](https://user-images.githubusercontent.com/89644963/132461417-fd2fa204-9da3-4f0b-ab26-3be90a6c8ed8.png)
 
-**4W'S and 1H**
+4W's and 1H
 
 WHO
 
-Anyone who doesn't know how to generate a bill they can use this project.
+Anyone one who doesn't know how to play, this project can be helpful
 
 WHAT
 
-This project is concerned about the generation of bill invoices.
+This project helps you with focus, consciousness, concentration, and control of your mind.
 
 WHEN
 
-To perform the operation of bill invoice for customer.
+Play this game  to relief from stress
 
 WHY
 
 As this project uses beginner's algorithm it can be easy to teach beginners who does not know how to solve it.
 
-HOW
+How
 
-Implemented using structures, Files, strings and other functionalities of C.
+This code asks the user to enter  1 , 2 , or 3. Each number stands for a different item; Rock, Paper, or Scissors. The code has a random function in it that randomly generates 1, 2 , or 3. The random function generates an answer for the computer
 
-HIGH LEVEL REQUIREMENTS:
 
-Id       |  Description                           |  Category |  Status
----------|----------------------------------------|-----------|---------
-HR01     | User shall be able to provide name of the customer    | Technical | Implemented
-HR02     | User shall be able to provide number of items| Technical | Implemented                                 
-HR03     | User shall be able to provide name of the item  | Technical | Implemented
-HR04     | User shall be able to provide name of the quntity   | Technical | Implemented
-HR05     | User shall be able to provide unit price of the item      | technical | Implemented
+HIGH LEVEL REQUIREMENTA
 
-         
-         
+Id  | Description                                   |Category    |status
+----|-----------------------------------------------|------------|--------
+HR01| User shall be able to provide Player's turn   |Technical | Implemented
+HR02| User shall be able to provide computer's turn | Technical | Implemented
+HR03|User shall be able to provide the prefered options|Technical|Implemented
+
 LOW LEVEL REQUIREMENTS
 
-Id       |  Description                           |  Category |  Status
----------|----------------------------------------|-----------|---------
-LR01     | Checks all the data entered by user is valid or not | Technical | Implemented       
-LR02     | Checks the invoices of customer bills  | Technical | Implemented    
-
-
-**BEHAVIOURAL DIAGRAM**
-
-Case1:
-
-![Behavioural diagram drawio (1)](https://user-images.githubusercontent.com/89644963/132372765-ef0bbbf2-f9bf-43cc-8892-6b484777be7c.png)
-
-
-
-case2:
-
-
-
-![Behavioural diagram drawio (1)](https://user-images.githubusercontent.com/89644963/132364654-a4b4f186-578e-4e96-ad6a-332f94a47e46.png)
-
-
-
-**STRUCTURAL DIAGRAM**
-
-
-![st drawio](https://user-images.githubusercontent.com/89644963/132377392-77acc327-a54d-4a54-95b1-01f6a42bb0dc.png)
+Id| Description|HRId|status
+-----|----------|-------|----------
+LR01| Checks if all details provide for player's turn| HR01|Implemented
+LR02 | Checks all the prefered options|HR03|Implemented
 
 
 
 
-![output](https://user-images.githubusercontent.com/89644963/132375508-49331088-9100-4c48-82de-12a9a6c253dd.png)
+Diagrams:
+
+![image](https://user-images.githubusercontent.com/89644963/132464381-6444a34c-9449-4af5-badd-d228a92677a5.png)
 
 
-![output](https://user-images.githubusercontent.com/89644963/132375514-3ad5a4bb-b932-4934-9656-d6c85b6f87c1.png)
+![image](https://user-images.githubusercontent.com/89644963/132464915-93d4cb58-f988-498f-8069-cec5f2eece01.png)
 
 
 
+![image](https://user-images.githubusercontent.com/89644963/132465163-318da0c6-03ce-4d38-ace5-3fcae169ef95.png)
+
+
+
+
+TEST PLAN:
+
+Table:
+
+HIGH LEVEL TEST PLAN
+
+Test ID| Description | EXP I/P | EXP O/P | Actual O/p
+-------|-------------|---------|---------|------------
+H_01|select number |Choice |Success|Success
+H_02|Player's turn |Choice |Success|Success
+
+LOW LEVEL TEST PLAN
+
+Test ID| HL_ID| Description | player turn | computer turn | Actual O/p |Type of test
+-------|-------------|---------|---------|---------------|-------------|-----------
+L_01|H_01|selecting 1|rock| paper|player :0 ,Computer:1|Requirement based
+L_02|H_01|selecting 2|scissor|scissor|player :1 ,Computer:1|Requirement based
+
+
+
+
+OUTPUT:
+
+![Screenshot (69)](https://user-images.githubusercontent.com/89644963/132465485-ce97ff9a-0991-4871-aac0-7c91852485c6.png)
+
+
+![Screenshot (70)](https://user-images.githubusercontent.com/89644963/132465497-51801327-07fa-4638-8a93-8ae33cbd43cf.png)
+
+
+![Screenshot (71)](https://user-images.githubusercontent.com/89644963/132465505-e84e5a68-5fd2-4082-a85e-cafea108f99f.png)
 
